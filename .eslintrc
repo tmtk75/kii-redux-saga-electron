@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "env": {
+    "mocha": true
+  },
+  "plugins": [
+    "react",
+    "flowtype"
+  ]
+}
